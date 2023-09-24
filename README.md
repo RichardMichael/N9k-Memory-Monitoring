@@ -3,6 +3,7 @@ Memory leak monitoring
 
 # Usage
 Start the script using simple while loop or shut/no-shut commands:
+```
 from cli import *
 import cisco 
 intf = ['2','3','5','6','7','8','9']
